@@ -1,6 +1,7 @@
 # Personal scratch folder
 /bordel
 CLAUDE.md
+.gitignore
 
 # Secrets - never commit
 web/.env
