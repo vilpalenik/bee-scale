@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "vcely",
+			"path": "."
+		},
+		{
+			"name": "apiary-master",
+			"path": "esp/apiary-master/apiary-master"
+		},
+		{
+			"name": "home-master",
+			"path": "esp/home-master/home-master"
+		},
+		{
+			"name": "scale",
+			"path": "esp/scale/scale"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,19 @@
+# Personal scratch folder
+/bordel
+CLAUDE.md
+
+# Secrets - never commit
+web/.env
+
+# Node.js - generated, not source
+node_modules/
+dist/
+*.js.map
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
